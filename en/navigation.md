@@ -21,6 +21,7 @@
 
 [About](pages/about.md)
 [Download](pages/download.md)
+[Controllers](pages/Controllers.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 
