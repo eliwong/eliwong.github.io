@@ -2,7 +2,6 @@
 
 
 ## Introduction
-
  <table><tr><td bgcolor=#FAFAD2>Welcome to FYSETC Wiki. Here, you will find user manuals and tutorials for [FYSETC's](https://www.fysetc.com) products. This website will constantly updated. </td></tr></table> 
 
 <table>
@@ -21,7 +20,6 @@
 </table>
 
 ## Copyright/License
--------
 Copyright (c) 2014-2018 FYSETC Inc. (https://www.fysetc.com). All documents and pictures align with <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"> </a>. 
 
 ## Tech Support
