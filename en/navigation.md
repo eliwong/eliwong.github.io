@@ -3,7 +3,7 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# Your wiki name
+# FYSETC WIKI
 
 
 <!--
@@ -11,7 +11,7 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser)
   -->
 
-[gimmick:theme](spacelab)
+[gimmick:theme(inverse: true)](flatly)
 
 
 <!--
@@ -19,9 +19,13 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-[About](pages/about.md)
-[Download](pages/download.md)
+
 [Controllers](pages/Controllers.md)
+[LCD and Displays](pages/LCD and Displays.md)
+[Stepper Drivers](pages/Stepper Drivers.md)
+[Tutorial](pages/Tutorial.md)
+[Shield](pages/Shield.md)
+[Sensors](pages/Sensors.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 
