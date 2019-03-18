@@ -31,7 +31,7 @@
 <!-- A more complex navigation example: ------------------------------------------>
 
 [Controllers](pages/Controllers.md)
-  * [F6](pages/F6_V1.3.md)
+  * [F6 Board](pages/F6_V1.3.md)
   * [SubMenu Item 2](pages/subitem2.md)
   - - - -
   * # SubMenu Heading 2
