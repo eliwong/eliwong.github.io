@@ -23,6 +23,7 @@
 [Controllers](pages/Controllers.md)
   * # F6
   * [F6](pages/F6_V1.3.md)
+  ----
 [LCD and Displays](pages/LCD and Displays.md)
 [Stepper Drivers](pages/Stepper Drivers.md)
 [Tutorial](pages/Tutorial.md)
