@@ -31,7 +31,7 @@
 <!-- A more complex navigation example: ------------------------------------------>
 
 [Controllers](pages/Controllers.md)
-
+  # SubMenu Heading 1
   * [F6 Board](pages/F6_V1.3.md)
   * [SubMenu Item 2](pages/subitem2.md)
   - - - -
@@ -42,7 +42,7 @@
   * [SubMenu Item 3](pages/subitem3.md)
 
 [Menu Item 2](pages/item2.md)
-  # SubMenu Heading 2
+  # SubMenu Heading 1
   * [F6 Board](pages/F6_V1.3.md)
   * [SubMenu Item 2](pages/subitem2.md)
   - - - -
@@ -53,6 +53,8 @@
   * [SubMenu Item 3](pages/subitem3.md)
   
 [Menu Item 3](pages/item3.md)
+
+  # SubMenu Heading 1
   * [F6 Board](pages/F6_V1.3.md)
   * [SubMenu Item 2](pages/subitem2.md)
   - - - -
