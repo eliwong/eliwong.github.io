@@ -30,10 +30,8 @@
 
 <!-- A more complex navigation example: ------------------------------------------>
 
-[Menu Item 1]()
-
-  * # SubMenu Heading 1
-  * [SubMenu Item 1](pages/subitem1.md)
+[Controllers](pages/Controllers.md)
+  * [F6](pages/F6_V1.3.md)
   * [SubMenu Item 2](pages/subitem2.md)
   - - - -
   * # SubMenu Heading 2
