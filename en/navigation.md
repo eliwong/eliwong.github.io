@@ -21,17 +21,8 @@
 
 
 [Controllers](pages/Controllers.md)
-  * # SubMenu Heading 1
+  * # F6
   * [F6](pages/F6_V1.3.md)
-  * # SubMenu Heading 2
-  * [SubMenu Item 1](pages/subitem1.md)
-  * [SubMenu Item 2](pages/subitem2.md)
-  - - - -
-  * # SubMenu Heading 3
-  * [SubMenu Item 3](pages/subitem3.md)
-  - - - -
-  * # SubMenu Heading 4
-  * [SubMenu Item 3](pages/subitem3.md)
 [LCD and Displays](pages/LCD and Displays.md)
 [Stepper Drivers](pages/Stepper Drivers.md)
 [Tutorial](pages/Tutorial.md)
