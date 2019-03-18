@@ -17,9 +17,6 @@
 <!--
   -- Navigation
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
-  
-
-
 [Controllers](pages/Controllers.md)
   * # F6
   * [F6](pages/F6_V1.3.md)
@@ -28,7 +25,8 @@
 [Stepper Drivers](pages/Stepper Drivers.md)
 [Tutorial](pages/Tutorial.md)
 [Shield](pages/Shield.md)
-[Sensors](pages/Sensors.md)-->
+[Sensors](pages/Sensors.md)
+------------------------>
 
 <!-- A more complex navigation example: ------------------------------------------>
 
