@@ -5,31 +5,50 @@
 [Page2](page2.md)
 [Page3](page3.md)
 
-[Controllers]()
+[Controllers](pages/Controllers.md)
+
+  * [SubPage1](pages/F6_V1.3.md)
+  * [SubPage2](subpage/page2.md)
+  * [SubPage3](subpage/page3.md)
+
+[LCDs and Displays]()
 
   * [SubPage1](subpage/page1.md)
   * [SubPage2](subpage/page2.md)
   * [SubPage3](subpage/page3.md)
 
-[Controllers]()
+[Stepper Drivers]()
 
   * [SubPage1](subpage/page1.md)
   * [SubPage2](subpage/page2.md)
   * [SubPage3](subpage/page3.md)
 
-[Controllers]()
+[Modules]()
 
   * [SubPage1](subpage/page1.md)
   * [SubPage2](subpage/page2.md)
   * [SubPage3](subpage/page3.md)
 
-[Controllers]()
+[Mechanical Parts]()
 
   * [SubPage1](subpage/page1.md)
   * [SubPage2](subpage/page2.md)
   * [SubPage3](subpage/page3.md)
 
-[Controllers]()
+[Sensors]()
+
+  * [SubPage1](subpage/page1.md)
+  * [SubPage2](subpage/page2.md)
+  * [SubPage3](subpage/page3.md)
+
+[Tutorials]()
+
+  * [SubPage1](pages/How_to_Configure_TMC2130_on_FYSETC-F6-Board.md.md)
+  * [SubPage2](pages/How_to_Configure_TMC2208_on_FYSETC-F6-Board.md)
+  * [SubPage3](subpage/page3.md)
+
+
+[Other Parts]()
 
   * [SubPage1](subpage/page1.md)
   * [SubPage2](subpage/page2.md)
