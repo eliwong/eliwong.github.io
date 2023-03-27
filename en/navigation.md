@@ -33,14 +33,14 @@
 [Controllers](pages/Controllers.md)
 
   * # SubMenu Heading 16
-  * [F6 Board](pages/F6_V1.3.md)
-  * [SubMenu Item 2](pages/subitem2.md)
+  [F6 Board](pages/F6_V1.3.md)
+  [SubMenu Item 2](pages/subitem2.md)
   - - - -
   * # SubMenu Heading 4
-  * [SubMenu Item 3](pages/subitem3.md)
+  [SubMenu Item 3](pages/subitem3.md)
   - - - -
   * # SubMenu Heading 8
-  * [SubMenu Item 3](pages/subitem3.md)
+  [SubMenu Item 3](pages/subitem3.md)
 
 [Menu Item 3](pages/item2.md) 
 [Menu Item 33](pages/item3.md)
