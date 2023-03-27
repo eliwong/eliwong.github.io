@@ -1,27 +1,21 @@
 
+# YourPageTitle
 
-# FYSETC WIKI
+[Page1](page1.md)
+[Page2](page2.md)
+[Page3](page3.md)
 
+[SubMenuName]()
 
-[gimmick:theme](flatly)
+  * [SubPage1](subpage/page1.md)
+  * [SubPage2](subpage/page2.md)
+  * [SubPage3](subpage/page3.md)
 
+<!-- set a default theme -->
+[gimmick:theme (inverse: false)](bootstrap)
 
-[Controllers](pages/Controllers.md)
-  * [F6 Board](pages/F6_V1.3.md)
-  * [SubMenu Item 2](pages/subitem2.md)
-  * [SubMenu Item 3](pages/subitem3.md)
-  * [SubMenu Item 3](pages/subitem3.md)
+<!-- show a theme chooser in the menu bar -->
+[gimmick:ThemeChooser](Change theme)
 
-[Menu Item 3](pages/item2.md) 
-[Menu Item 33](pages/item3.md)
-  
-
-
-[Change the Language]()
-
-  * [English (United States)](/en_US/)
-  * [English (United Kingdom)](/en_GB/)
-  * [Italian](/it/)
-
-
-[gimmick:themechooser](Choose theme)
+<!-- show a fork me on github ribbon -->
+[gimmick:forkmeongithub](http://github.com/Dynalon/mdwiki-seed/)
