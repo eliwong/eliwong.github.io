@@ -1,11 +1,7 @@
 
 # FYSETC Wiki
 
-[Page1](page1.md)
-[Page2](page2.md)
-[Page3](page3.md)
-
-[Controllers](pages/Controllers.md)
+[Controllers]()
 
   * [SubPage1](pages/F6_V1.3.md)
   * [SubPage2](subpage/page2.md)
