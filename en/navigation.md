@@ -14,32 +14,16 @@
 [gimmick:theme](flatly)
 
 
-<!--
-  -- Navigation
-  -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
-[Controllers](pages/Controllers.md)
-  * # F6
-  * [F6](pages/F6_V1.3.md)
-  ----
-[LCD and Displays](pages/LCD and Displays.md)
-[Stepper Drivers](pages/Stepper Drivers.md)
-[Tutorial](pages/Tutorial.md)
-[Shield](pages/Shield.md)
-[Sensors](pages/Sensors.md)
------------------------->
-
-<!-- A more complex navigation example: ------------------------------------------>
 
 [Controllers](pages/Controllers.md)
   * [F6 Board](pages/F6_V1.3.md)
   * [SubMenu Item 2](pages/subitem2.md)
   * [SubMenu Item 3](pages/subitem3.md)
   * [SubMenu Item 3](pages/subitem3.md)
-
 [Menu Item 3](pages/item2.md) 
 [Menu Item 33](pages/item3.md)
   
----------------------------------------------------------------------------- 
+
 
 <!--
   -- Change the Language
