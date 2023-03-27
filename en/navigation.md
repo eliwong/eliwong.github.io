@@ -20,6 +20,7 @@
   * [SubMenu Item 2](pages/subitem2.md)
   * [SubMenu Item 3](pages/subitem3.md)
   * [SubMenu Item 3](pages/subitem3.md)
+
 [Menu Item 3](pages/item2.md) 
 [Menu Item 33](pages/item3.md)
   
@@ -30,13 +31,13 @@
   -- Could be useful when there's more than one language wiki.
   -->
 
-<!--
+
 [Change the Language]()
 
   * [English (United States)](/en_US/)
   * [English (United Kingdom)](/en_GB/)
   * [Italian](/it/)
--->
+
 
 <!--
   -- Let the user choose a theme
